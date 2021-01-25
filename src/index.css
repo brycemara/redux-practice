@@ -63,6 +63,8 @@ ul {
 
 li {
   cursor: pointer;
+  border: 2px solid #AAF;
+  padding: 10px;
   list-style-type: none;
   margin: 10px 0;
 }
